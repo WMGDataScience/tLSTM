@@ -1,5 +1,5 @@
 # tLSTM - Longitudinal detection of radiological abnormalities with time-modulated LSTM
-Repository with simulated datasets and networks architectures (tLSTMv1 & tLSTMv2)
+Repository with simulated datasets and networks architectures (tLSTMv1 & tLSTMv2) used in this [paper](https://arxiv.org/abs/1807.06144)
 
 List of files:
  - tLSTMv1 architecture (PyTorch version)
